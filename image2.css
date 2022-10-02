@@ -1,0 +1,43 @@
+#michead{
+    background: #FF0000;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 35%;
+
+}
+
+#micstem{
+    margin-top: 24%;
+    margin-left: 44%;
+    width: 350px;
+    height: 125px;
+    background-color: #4D4D4D;
+    transform: rotate(45deg);
+    transform-origin: 20% 40%;
+    position: absolute;
+   
+  
+  
+}
+#micheadbg{
+    background: white;
+    border-radius: 50%;
+    width: 205px;
+    height: 205px;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 35%;
+
+}
+#stembtm{
+    background: #4D4D4D;
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+    position: absolute;
+    margin-top: 37%;
+    margin-left: 57%;    
+}
