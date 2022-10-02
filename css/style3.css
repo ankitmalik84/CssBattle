@@ -1,0 +1,28 @@
+
+#triangle1{
+      width: 0px;
+      height: 0px;
+      position: absolute;
+      margin: 100px 300px;
+      border-left: 350px solid transparent;
+      border-right: 350px solid transparent;
+      border-bottom: 250px solid #FF0000;
+}
+#triangle2{
+    width: 0px;
+      height: 0px;
+      position: absolute;
+      margin: 180px 300px;
+      border-left: 350px solid transparent;
+      border-right: 350px solid transparent;
+      border-bottom: 250px solid #009244 ;
+}
+#triangle3{
+    width: 0px;
+      height: 0px;
+      position: absolute;
+      margin: 270px 300px;
+      border-left: 350px solid transparent;
+      border-right: 350px solid transparent;
+      border-bottom: 250px solid #E6E6E6;
+}
